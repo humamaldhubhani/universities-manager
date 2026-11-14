@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" rx="112" fill="#1B1340"/>
+  <!-- hierarchy lines -->
+  <path d="M256 250 V300 M150 300 H362 M150 300 V340 M256 300 V340 M362 300 V340" stroke="#8C7BFF" stroke-width="10" stroke-linecap="round" fill="none"/>
+  <!-- child boxes -->
+  <rect x="112" y="340" width="76" height="62" rx="14" fill="#5B47E0"/>
+  <rect x="218" y="340" width="76" height="62" rx="14" fill="#5B47E0"/>
+  <rect x="324" y="340" width="76" height="62" rx="14" fill="#5B47E0"/>
+  <!-- graduation cap -->
+  <path d="M256 104 L404 164 L256 224 L108 164 Z" fill="#FFC857"/>
+  <path d="M180 192 V230 C180 250 332 250 332 230 V192 L256 224 Z" fill="#F2A93B"/>
+  <path d="M392 170 V226" stroke="#FFC857" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="392" cy="232" r="10" fill="#FFC857"/>
+</svg>
